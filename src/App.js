@@ -7,7 +7,7 @@ const App = () => {
     <div className="App">
       <Navbar />
       <div className="content">
-        <Header title="1.1 Stoichiometric reactions" />
+        <Header title="1.1 Stoichiometric reactions CHEM" />
         <Home />
       </div>
     </div>
