@@ -1,0 +1,74 @@
+{
+    "questions": [
+    {
+      "number": 1,
+      "marks": 3,
+      "body": "easy",
+      "difficulty": 20,
+      "id": "abc1"
+    },
+    {
+      "number": 2,
+      "marks": 2,
+      "body": "mid",
+      "difficulty": 40,
+      "id": "abc2"
+    },
+    {
+      "number": 3,
+      "marks": 7,
+      "body": "hard",
+      "difficulty": 80,
+      "id": "abc3"
+    },
+    {
+      "number": 4,
+      "marks": 7,
+      "body": "hard",
+      "difficulty": 90,
+      "id": "abc4"
+    },
+    {
+      "number": 5,
+      "marks": 7,
+      "body": "mid",
+      "difficulty": 50,
+      "id": "abc5"
+    },
+    {
+      "number": 6,
+      "marks": 7,
+      "body": "mid",
+      "difficulty": 60,
+      "id": "abc6"
+    },
+    {
+      "number": 7,
+      "marks": 7,
+      "body": "easy",
+      "difficulty": 10,
+      "id": "abc7"
+    },
+    {
+      "number": 8,
+      "marks": 7,
+      "body": "hard",
+      "difficulty": 70,
+      "id": "abc8"
+    },
+    {
+      "number": 9,
+      "marks": 7,
+      "body": "mid",
+      "difficulty": 60,
+      "id": "abc9"
+    },
+    {
+      "number": 10,
+      "marks": 7,
+      "body": "easy",
+      "difficulty": 30,
+      "id": "abc10"
+    }
+  ]
+}
